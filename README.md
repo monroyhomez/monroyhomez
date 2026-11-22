@@ -3,11 +3,11 @@
 Electronic Engineer (Universidad de Ibagué, Colombia) working on **efficient computer vision**:
 making deep learning models accurate *and* able to run on the hardware you actually have.
 
-- 🔬 Research: State Space Models (Mamba) vs. CNNs — accuracy, GPU memory, latency and scaling
-- 📄 First author, *Overcoming Spatial Context Loss in Vision Mamba* — Springer Nature (20CCC 2026)
-- 🎤 IOCIM 2026 (MDPI) — *Accuracy–Efficiency Trade-offs in CNN and Mamba-based Skin Lesion Classifiers*
-- 🔌 Embedded side: ESP32, Arduino, PCB design, control systems, IoT with Node-RED
-- 🌱 Looking for Computer Vision / ML / R&D roles and funded master's opportunities
+-  Research: State Space Models (Mamba) vs. CNNs — accuracy, GPU memory, latency and scaling
+-  First author, *Overcoming Spatial Context Loss in Vision Mamba* — Springer Nature (20CCC 2026)
+-  IOCIM 2026 (MDPI) — *Accuracy–Efficiency Trade-offs in CNN and Mamba-based Skin Lesion Classifiers*
+-  Embedded side: ESP32, Arduino, PCB design, control systems, IoT with Node-RED
+-  Looking for Computer Vision / ML / R&D roles and funded master's opportunities
 
 ### Featured work
 
